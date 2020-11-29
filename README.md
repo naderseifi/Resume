@@ -1,6 +1,6 @@
 # رزومه آقای نادر سیفی
 <br>
-<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" /> <br>
+<img src="https://avatars2.githubusercontent.com/u/73647040?s=120&v=4" /> <br>
 <br>
 <strong >اطلاعات شخصی: </strong> <br>
 <strong>نام :    </strong>نادر<br>
